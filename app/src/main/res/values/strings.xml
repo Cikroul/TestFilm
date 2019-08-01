@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Фильмы</string>
+    <string name="Films">Фильмы</string>
+    <string name="Genre">Жанры:</string>
+    <string name="about_title">about</string>
+    <string name="todo">TODO</string>
+
+</resources>
